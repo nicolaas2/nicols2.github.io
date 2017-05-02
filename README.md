@@ -1,1 +1,1 @@
-# http//:nicols2.github.io
+# http://nicols2.github.io
